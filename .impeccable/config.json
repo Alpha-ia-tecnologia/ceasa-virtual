@@ -1,0 +1,14 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "open sans",
+        "createdAt": "2026-11-13T10:57:32.452Z",
+        "reason": "Manual de identidade visual CEASA VIRTUAL (proposta 03, p. 10) define Open Sans como família tipográfica da marca, com Arial como alternativa; fornecido pelo usuário como base do MVP"
+      }
+    ]
+  }
+}

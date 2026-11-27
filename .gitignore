@@ -1,0 +1,6 @@
+node_modules
+dist
+dados
+*.log
+.env
+.impeccable/hook.cache.json

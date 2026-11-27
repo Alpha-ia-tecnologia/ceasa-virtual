@@ -1,0 +1,10 @@
+node_modules
+dist
+dados
+testes
+.git
+.impeccable
+*.log
+.env
+Dockerfile
+.dockerignore
